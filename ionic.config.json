@@ -1,0 +1,7 @@
+{
+  "name": "dreamhouse",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
